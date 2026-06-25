@@ -10,7 +10,7 @@ translation-quality regression.
 
 ### Now
 
-Shipping Sayverse v1.0 to the App Store.
+Sayverse v1.0.1 is live on the [App Store](https://apps.apple.com/us/app/sayverse/id6778360060).
 
 ### Elsewhere
 
